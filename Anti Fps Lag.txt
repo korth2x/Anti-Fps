@@ -24,7 +24,7 @@ end
 if not _G.Settings then
     _G.Settings = {
         Players = {
-            ["Ignore Me"] = false,
+            ["Ignore Me"] = true,
             ["Ignore Others"] =false,
             ["Ignore Tools"] = false
         },
